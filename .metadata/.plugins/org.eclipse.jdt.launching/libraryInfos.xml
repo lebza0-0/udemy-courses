@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="D:\DEV_HOME\TOOLS\java\1.8.0_111" version="1.8.0_111">
+        <bootpath>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\resources.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\rt.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\sunrsasign.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\jsse.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\jce.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\charsets.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\jfr.jar"/>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\ext"/>
+            <entry path="C:\Windows\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\DEV_HOME\TOOLS\java\1.8.0_111\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\lphatsoane\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.1.v20231028-0937" version="21.0.1"/>
+    <libraryInfo home="C:\Users\lphatsoane\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.1.v20231028-0937\jre" version="21.0.1"/>
+</libraryInfos>
